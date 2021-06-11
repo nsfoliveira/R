@@ -11,7 +11,7 @@
 #*****************************************************************************
 
 # Definindo a pasta de trabalho
-setwd("C:/Users/nsfol/Desktop/ARQUIVOS/WORKPLACE/PYTHON/analise_dados/bruto/DADOS")
+setwd("C:/Users/nsfol/Desktop/ARQUIVOS/WORKPLACE/R")
 getwd()
 
 # Definição do Problema
@@ -38,7 +38,7 @@ library(e1071)
 
 # Carregando o dataset
 # Fonte: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
-dados_clientes <- read.csv("dados/dataset.csv")
+dados_clientes <- read.csv("DADOS/dataset.csv")
 
 # Visualizando os dados e sua estrutura
 View(dados_clientes)
