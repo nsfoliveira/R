@@ -11,7 +11,7 @@
 #*****************************************************************************
 
 # Definindo a pasta de trabalho
-setwd("C:/Users/dmpm/Documents/PowerBI/Cap15")
+setwd("C:/Users/nsfol/Desktop/ARQUIVOS/WORKPLACE/PYTHON/analise_dados/bruto/DADOS")
 getwd()
 
 # Definição do Problema
